@@ -1,0 +1,21 @@
+{
+    "name": "sukhrobnuraliev/db-connector",
+    "description": "Easily connect to any relational database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sukhrob\\DbConnector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sukhrobnuraliev",
+            "email": "sukhrobnuralievv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    }
+}
